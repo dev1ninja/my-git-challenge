@@ -14,3 +14,5 @@ function AutoReview() {
 }
 
 export default AutoReview;
+
+//This is easy way to check edited js

@@ -15,3 +15,5 @@ test('renders Biology Today article', () => {
   const linkElement = screen.getByText(/Biology Today:/i);
   expect(linkElement).toBeInTheDocument();
 });
+
+//This is easy way to check edited js
