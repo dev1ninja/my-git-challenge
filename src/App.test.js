@@ -18,3 +18,5 @@ test('renders Auto Review Article', () => {
   const linkElement = screen.getByText(/Auto Review:/i);
   expect(linkElement).toBeInTheDocument();
 });
+
+//This is easy way to check edited js
